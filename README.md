@@ -1,3 +1,4 @@
+# Hi, Yi. Would you like to share the code of X-SQL?
 # WikiSQL
 
 [![Build Status](https://travis-ci.org/salesforce/WikiSQL.svg?branch=master)](https://travis-ci.org/salesforce/WikiSQL)
